@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://survey.hongdae-massage-review.xyz/sitemap.xml
