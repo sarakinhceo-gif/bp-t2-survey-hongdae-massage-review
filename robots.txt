@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://survey.hongdae-massage-review.xyz/sitemap.xml
+Sitemap: https://survey.hongdae-massage-review.xyz/sitemap-pages.xml
